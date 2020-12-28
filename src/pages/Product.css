@@ -1,0 +1,13 @@
+.boss-div h2{
+ width: 600px;
+}
+
+.boss-div h3{
+    margin-top: 3rem;
+    font-size: 2rem;
+}
+
+.boss-div button {
+    background: yellow;
+}
+
